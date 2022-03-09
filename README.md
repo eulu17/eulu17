@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eulu17
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning C. 
 - 💞️ I’m looking to collaborate on game devoloping.
 - 📫 How to reach me : erdemulu2003@yandex.com
 
